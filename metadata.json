@@ -1,0 +1,5 @@
+{
+  "name": "Hebrew Personal Dashboard",
+  "description": "A comprehensive personal dashboard with a Hebrew calendar, tools, notes, and customizable shortcuts. All data is stored locally in your browser.",
+  "requestFramePermissions": []
+}
